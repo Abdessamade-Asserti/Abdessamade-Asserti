@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdessamade-Asserti
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +212765567008
 - 😄 Pronouns: ...
